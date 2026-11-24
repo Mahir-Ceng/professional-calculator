@@ -31,7 +31,7 @@ A command-line calculator built with Python, featuring multiple mathematical ope
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/professional-calculator.git
+git clone https://github.com/Mahir-Ceng/professional-calculator.git
 ```
 
 Navigate to the project directory:
